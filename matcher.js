@@ -40,7 +40,7 @@ pairTwo.removeEventListener('click', flip);
   setTimeout(() => {
     pairOne.classList.remove('flip');
     pairTwo.classList.remove('flip');
-}, 2000);
+}, 1000);
 
 }
 }

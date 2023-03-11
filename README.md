@@ -30,7 +30,7 @@ Technologies used:
 3. Javascript
 
 Getting Started:
-1. Link to the Game- https://github.com/Odunlola/MemoryMatcher.git
+1. Link to the Game- https://odunlola.github.io/MemoryMatcher/
 
 2. Instructions-
 There are 10 matching cards
