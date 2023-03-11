@@ -51,5 +51,9 @@ https://www.w3schools.com/jsref/prop_element_classlist.asp
 https://www.w3schools.com/jsref/met_element_removeeventlistener.asp
 https://www.w3schools.com/jsref/prop_html_innerhtml.asp
 Class lectures - tictactoes
+https://www.geeksforgeeks.org/collect-js-flip-function/
+https://app.uizard.io/prototypes/JJAK8O6JoxUKxrPvwElJ/player
+https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Grid_wrapper
+
 
 
