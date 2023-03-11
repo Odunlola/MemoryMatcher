@@ -46,6 +46,10 @@ At the end of the game the player scores 10 points in total.
 Next Steps: Planned Future Enhancements -
 To play a line of the song once its matches.
 
-COMMITS:
+References:
+https://www.w3schools.com/jsref/prop_element_classlist.asp
+https://www.w3schools.com/jsref/met_element_removeeventlistener.asp
+https://www.w3schools.com/jsref/prop_html_innerhtml.asp
+Class lectures - tictactoes
 
 
